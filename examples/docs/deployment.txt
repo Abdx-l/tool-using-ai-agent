@@ -1,0 +1,2 @@
+Deployment checklist: run tests, review migrations, then roll out to staging before production.
+
